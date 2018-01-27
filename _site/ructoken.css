@@ -1,0 +1,65 @@
+body {
+    position: relative;
+    font-family: 'Walter Turncoat', cursive;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Walter Turncoat', cursive;
+}
+
+.h4 {
+    text-align: center;
+    font-family: 'Walter Turncoat', cursive;
+}
+
+
+h1 {
+    
+    font-family: 'Walter Turncoat', cursive;
+    text-align: center;
+}
+
+.h1 {
+    
+    font-family: 'Walter Turncoat', cursive;
+    text-align: center;
+}
+
+.card {
+
+    background-color: rgb(250, 99, 230);     
+}
+.scroll-point {
+    position: relative;
+    top: -3.5rem;
+}
+
+.lead {
+    margin-top: 6cm;
+    font-size: 200%;
+}
+
+.hidden
+
+.bg-white {
+    background-color: #fff;
+}
+
+.btn {
+    color: #fff;
+    background-color: rgb(250, 99, 230); 
+}
+
+.navbar {
+    background-color: rgb(250, 99, 230); 
+}
+
+.jumbotron.jumbotron-fluid {
+    background: url(jumbotron.png) no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    text-shadow: 0 0 2rem rgba(255, 255, 255, 1);
+}
+
